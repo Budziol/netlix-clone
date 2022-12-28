@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/netlix-clone/static/css/main.4be8387f.css",
-    "main.js": "/netlix-clone/static/js/main.76e677e5.js",
+    "main.css": "/netlix-clone/static/css/main.a68d0564.css",
+    "main.js": "/netlix-clone/static/js/main.ed225c39.js",
     "static/media/Roboto-Regular.ttf": "/netlix-clone/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Roboto-Black.ttf": "/netlix-clone/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
     "static/media/Roboto-Bold.ttf": "/netlix-clone/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
     "index.html": "/netlix-clone/index.html",
-    "main.4be8387f.css.map": "/netlix-clone/static/css/main.4be8387f.css.map",
-    "main.76e677e5.js.map": "/netlix-clone/static/js/main.76e677e5.js.map"
+    "main.a68d0564.css.map": "/netlix-clone/static/css/main.a68d0564.css.map",
+    "main.ed225c39.js.map": "/netlix-clone/static/js/main.ed225c39.js.map"
   },
   "entrypoints": [
-    "static/css/main.4be8387f.css",
-    "static/js/main.76e677e5.js"
+    "static/css/main.a68d0564.css",
+    "static/js/main.ed225c39.js"
   ]
 }
